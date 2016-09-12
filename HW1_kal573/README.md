@@ -17,7 +17,7 @@ Once I accessed compute, I created the new directory PUI2016_kal573:
 
 `mkdir PUI2016_kal573`
 
-I then created a new environmental variable, `PUI2016_kal573` in `.bash_profile` using nano and source commands as shown in the screenshot. This varialbe will allow me to store this for future use.
+I then created a new environmental variable, `PUI2016_kal573` in `.bash_profile` using nano, export, and source commands as shown in the screenshot. This varialbe will allow me to store this for future use.
 
 I also created the alias `pui2016` in `.bash_profile` as shown in the screenshot. This alias will allow me to run the command `cd $PUI2016_kal573` and change into that directory in the future. The dollar sign symbol is needed to designate the following text as a variable.
 
