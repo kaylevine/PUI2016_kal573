@@ -21,6 +21,15 @@ I then created a new environmental variable, `PUI2016_kal573` in `.bash_profile`
 
 I also created the alias `pui2016` in `.bash_profile` as shown in the screenshot. This alias will allow me to run the command `cd $PUI2016_kal573` and change into that directory in the future. The dollar sign symbol is needed to designate the following text as a variable.
 
+To complete Assignment 2, I input the following three commands:
+
+`pwd`
+
+`pui2016`
+
+`pwd`
+
+This reveals that I properly created the environmental variable and alias for the new directory.
 
 
 ![Screenshot 1: directory creation](/HW1_kal573/bash_profile.png)
