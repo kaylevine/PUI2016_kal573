@@ -61,6 +61,7 @@ url = p1 + key + p2 + busline
 csvname = sys.argv[3]
 ```
 Similar to assignment 1, I called the url, put the json data into a data frame, created the bus variable, and defined latitude/longitude functions.
+
 ```
 p1 = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key="
 key = sys.argv[1]
@@ -78,8 +79,11 @@ def lat(df,x):
     return df[x]["MonitoredVehicleJourney"]["VehicleLocation"]["Latitude"]
 def lon(df,x):
     return df[x]["MonitoredVehicleJourney"]["VehicleLocation"]["Longitude"]
-    ```
+
+```
+
 I then defined two more functions to call Stop Name and Stop Status.
+
 ```
 def stop(df,x):
     name = df[x]["MonitoredVehicleJourney"]["OnwardCalls"]["OnwardCall"][0]["StopPointName"]
@@ -87,7 +91,6 @@ def stop(df,x):
         return name
     else:
         return "N/A"
-
 def status(df,x):
     stat = df[x]["MonitoredVehicleJourney"]["OnwardCalls"]["OnwardCall"][0]["Extensions"]["Distances"]["PresentableDistance"]
     if stat <> "":
@@ -95,7 +98,9 @@ def status(df,x):
     else:
         return "N/A"
 ```
+
 In order to create a csv file, I first converted each of the four defined functions into lists using for loops. This enabled my code to collect information for each of the buses in the range.
+
 ```
 latlist = []
 for x in range(len(bus)):
@@ -109,12 +114,16 @@ for x in range(len(bus)):
 statuslist = []
 for x in range(len(bus)):
     statuslist.append(status(bus,x))
+
 ```
+
 Last, I created a dictionary from the lists within the data frame, and created a csv file from the results.
+
 ```
 result_list = pd.DataFrame({'Latitude': latlist, 'Longitude': lonlist, 'Stop Name': stoplist, 'Stop Status': statuslist})
 result_list
 result_list.to_csv(csvname,index = False)
+
 ```
 
 ## Assignment 3:
