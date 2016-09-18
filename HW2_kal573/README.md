@@ -3,8 +3,7 @@
 
 ## Project Work Balance:
 
-**Assignment 1:** I completed this assignment...
+I completed this assignment working in a group with Mona and Claire. Mona helped explain pandas, json files, data frames, keys, and basic coding pricinples. Her background in computer science helped me complete this assignment. 
 
-**Assignment 2:**
 
-**Assignment 3:**
+
