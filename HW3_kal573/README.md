@@ -26,7 +26,7 @@ The markdown for this assignment is located directly in the python notebook HW3_
 
 ## Assignment 3:
 
-The markdown for this assignment is located directly in the python notebook HW3_Assignment3.
+The markdown for this assignment is located directly in the python notebook PUI_HW3_Assignment3.
 
 
 
