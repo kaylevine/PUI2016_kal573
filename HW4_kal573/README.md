@@ -18,11 +18,13 @@ For this assignment, I worked with Claire, Mona, and Alexey to reproduce the ana
 For this assignment, I worked with Claire, Mona, and Alexey to manipulate the CitiBike data and perform the analyses. Mona helped determine which code to use to subset, sort, and change the size of the data.
 
 
-## Assignment 2:
+# Assignment 1:
 
-Chi Squared Test:
+For this assignment, I began by forking lx565's PUI2016 repository on GitHub. Then, I analyzed his Homework 3, Assignment 2 file according to the directions. I then determined that lx565 should use the *blank* test to finish the CitiBike analysis.
 
-T Test:
+# Assignment 2:
+
+For this assignment, my group (Claire and Mona) and I investigated research articles that utlized T-tests and Correlations between variables. The results of this search and analysis are described in the table below:
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -30,8 +32,14 @@ T-test	| 1, Types of Viruses | categorical | 1, % of light reflected | continuou
 Correlation	| 2, olfactory abilities, executive brain functioning abilities | continuous | 1, correlation | continuous | 1, sub-clinical psychopathologies | categorical | 	How strongly correlated and in what direction are the olfactory abilities and executive brain functioning abilities. | Olfactory abilities are weakly correlated to executive brain functioning abilities. | 0.01 | [Olfactory Impairment Is Correlated with Confabulation in Alcoholism](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023190) |
 ||||||||
 
+# Assignment 3:
+
+For this assignment, I first followed along with the professor's sample python notebook about the Hard to Employ program in NY. Starting at the To Do section, I described the Null Hypothesis in words and symbols, and then stated my significance level. I then performed a Z-test, which demonstrated that the p-value was smaller than the critical value, and therefore the Null Hypothesis could not be rejected. I then performed a chi-squared analysis on the data, and again the Null Hypothesis could not be rejected. Lastly, I placed my calculated values into a contigency table.
+
+# Assignment 4: 
+
+For this assignment, I began by importing the CitiBike data from June 2016. Then, I crated male and female age columns for future use, and coded the gender column into binary numbers (1,2). Next, I plotted histograms of the data as well as normalized cumulative distributions. I then performed a KS test on the data, comparing the male and female age samples. To perform the next two tests, Pearson and Spearman, I then had to subset the data and sort the data. After that was completed, I performed the other two tests. I described in the notebook how these tests relate to the null hypothesis.
 
 
 
-plant viruses affect the features of leaf surfaces in ways that are associated with the viral transmission strategy, specifically by altering the polarization of reflected light from the plant leaves reflect
 
