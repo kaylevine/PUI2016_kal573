@@ -1,4 +1,21 @@
+# PUI Homework 4
 
+## Project Work Balance:
+### Assignment 1:
+
+For this assignment, I received guidance from Mona to refresh my memory about using github to fork repositories. Otherwise, I worked alone.
+
+### Assignment 2:
+
+For this assignment, I worked with Claire and Mona. More specifically, I found the first article (T-test) on Plos One and helped determine the variables and hypothesis. Claire found the second article (Correlation).
+
+### Assignment 3:
+
+For this assignment, I worked with Claire, Mona, and Alexey to reproduce the analysis of the Hard to Employ program. Specifically, I worked alone to create my initial code, and then received help from Mona and Alexey to debug my code for the chi-squared analysis section. 
+
+### Assignment 4:
+
+For this assignment, I worked with Claire, Mona, and Alexey to manipulate the CitiBike data and perform the analyses. Mona helped determine which code to use to subset, sort, and change the size of the data.
 
 
 ## Assignment 2:
