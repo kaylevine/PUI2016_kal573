@@ -12,7 +12,11 @@ I worked with Mona and Claire while completing all three assignments. Mona helpe
 ### Experiment 1: Do ddiets help lose more fat than the exercise?
 
 Null Hypothesis: The average weight loss of people who dieted is the same as the average weight loss of people who only exercised.
+
 Alternative Hypothesis: The average weight loss of people who dieted is the different than the average weight loss of people who only exercised.
+
+$H_0: P_1 = P_
+$H_a: P_1 != P_2
 
 ### Null Hypothesis: the % of former prisoners employed after release is the same or lower for candidates who participated in the program as for the control group, significance level p=0.05\n",
     "\n",
