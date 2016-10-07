@@ -1,7 +1,8 @@
 # PUI2016 Homework 5
 
 ## Project Work Balance:
-I worked with Mona and Claire while completing all three assignments. Mona helped with the coding, I helped with formulating the hypotheses, and Claire helped explain the statistical analyses.
+I worked with Claire and Alexey to complete Assignment 1 and Assignment 2. Claire helped us determine which statistical to use and which code to use for each test in Assignment 1. I found the code for creating the random distributions for each distribution type.  In Assignment 2, ...
+In Assignment 3, I worked by myself to develop the null hypotheses.
 
 ## Assignment 1:
 
