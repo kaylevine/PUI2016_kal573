@@ -1,12 +1,8 @@
 # PUI2016 Homework 5
 
 ## Project Work Balance:
-I worked with Claire and Alexey to complete Assignment 1 and Assignment 2. Claire helped us determine which statistical to use and which code to use for each test in Assignment 1. I found the code for creating the random distributions for each distribution type.  In Assignment 2, ...
+I worked with Claire, Alexey, and Mona to complete Assignment 1 and Assignment 2. Claire helped us determine which statistical to use and which code to use for each test in Assignment 1. I found the code for creating the random distributions for each distribution type.  In Assignment 2, I worked with Claire and Alexey to create the dictionaries and keys. Mona helped me code the regression plots. 
 In Assignment 3, I worked by myself to develop the null hypotheses.
-
-## Assignment 1:
-
-## Assignment 2:
 
 ## Assignment 3: Practice formulating the null hypothesis
 
