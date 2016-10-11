@@ -8,5 +8,5 @@ The data has to be moved into the PUIDATA directory; data should not be kept in 
 
 Imports should all be at the top (pep8) . I oftn leave them in the middle to show people the workflow but they should be moved.
 
-**All figures should have captions that explain what I am looking at88. the first scatter plot is too dense to understand much; use transparency (alpha) or plot only a random subset of the data.
+**All figures should have captions that explain what I am looking at**. The first scatter plot is too dense to understand much; use transparency (alpha) or plot only a random subset of the data.
 The data is properly processed and it supports a test of means (t-test)  as well as more detailed analysis of the distribution of durations.
