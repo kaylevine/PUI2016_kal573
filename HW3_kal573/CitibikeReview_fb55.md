@@ -4,9 +4,10 @@ Very interesting! It is remarkable that the number of rides by age has such a we
 
 The null is properly formulated for the question.
 
-The data has to be moved into the PUIDATA directory; data should not be kept in the same directory as code, and for the class it has to be stored in PUIDATA so that we avoiding having multiple copies of redundant data as we grade 90 notebooks. so you should not get data from the puidata dir, which is your own so it only hosts data you downloaded in it, but put your data in that dir. If it is srill not clear please do ask me what I mean.
+The data has to be moved into the PUIDATA directory; data should not be kept in the same directory as code, and for the class it has to be stored in PUIDATA so that we avoiding having multiple copies of redundant data as we grade 90 notebooks. so you should not **get data** from the puidata dir, which is your own so it only hosts data you downloaded in it, but put your data in that dir (so when we run your notebook it goes into our own $PUIDATA). If it is still not clear please do ask me what I mean.
 
 Imports should all be at the top (pep8) . I oftn leave them in the middle to show people the workflow but they should be moved.
 
-**All figures should have captions that explain what I am looking at**. the first scatter plot is too dense to understand much; use transparency (alpha) or plot only a random subset of the data.
+All figures should have captions that explain what I am looking at**. the first scatter plot is too dense to understand much; use transparency (alpha) or plot only a random subset of the data.
+
 The data is properly processed and it supports a test of means (t-test)  as well as more detailed analysis of the distribution of durations.
