@@ -1,6 +1,10 @@
 # Peer Review of jt2276
 
+### Plot Image:
+
 ![Screenshot 1: plot image](/HW8_kal573/jt2276_plot_image.png)
+
+### Peer Review:
 
 The plot above describes the change in average catch depth for fish, taken from Rutgers University. 
 It depicts information for both the spring and fall seasons.  
