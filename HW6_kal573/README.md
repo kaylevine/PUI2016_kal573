@@ -8,4 +8,5 @@ I completed both assignments with Claire and Mona. For Assignment 1, Claire and 
 <https://www.authorea.com/users/106828/articles/133787/_show_article?access_token=hxmv25fhR0dWV2w4k5SiyA>
 
 
-
+# FBB
+quite good. good figures, pretty good writing and organizations. some flaws; see the inline comments in authorea article
