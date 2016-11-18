@@ -3,7 +3,7 @@
 ## Project Work Balance:
 
 I completed this homework assignment with Mona (nm2773) and Claire (xh895). Mona helped with plotting the fft correctly, 
-Claire helped us figure out how to use rolling means, and I helped with fourier transforms.
+Claire helped us figure out how to use rolling means, and I helped with fourier transforms. I also helped Vishwajeet complete this assignment.
 
 ## Assignment 1:
 
