@@ -1,4 +1,4 @@
 # PUI2016 Repository
 
 
-## Homework folders are contained within this repo.
+## Homework folders for Professor Federica's Principle of Urban Informatics class are contained within this repo.
